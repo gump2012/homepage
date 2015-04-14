@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hisense.HsShareqi</string>
+				<string>com.hisense.GatherVideoqi</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HsShare</string>
+				<string>GatherVideo</string>
 			</dict>
 		</dict>
 	</array>
